@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://0212908.github.io/i-nigma(v3.17.01).ipa</string>
+                    <string>https://www.googledrive.com/host/0B37vCk6g48XTSE1nU05pSFNnVzg</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>https://www.googledrive.com/host/0B37vCk6g48XTUDdmV3RMdDZtdnM</string>
+                    <string>https://www.googledrive.com/host/0B37vCk6g48XTSE1nU05pSFNnVzg</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -33,15 +33,15 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>tv.othman.line2</string>
+                <string>0</string>
                 <key>bundle-version</key>
-                <string>5.7.0</string>
+                <string>0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>LINE 2</string>
+                <string>測試</string>
                 <key>title</key>
-                <string>測試3</string>
+                <string>測試</string>
             </dict>
         </dict>
     </array>
