@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://www.googledrive.com/host/0B37vCk6g48XTSE1nU05pSFNnVzg</string>
+                    <string>https://www.googledrive.com/host/0B37vCk6g48XTVm9yZk9Bc0xmMTA</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>https://www.googledrive.com/host/0B37vCk6g48XTSE1nU05pSFNnVzg</string>
+                    <string>https://www.googledrive.com/host/0B37vCk6g48XTVm9yZk9Bc0xmMTA</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -39,9 +39,9 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>測試</string>
+                <string>神魔之塔</string>
                 <key>title</key>
-                <string>測試</string>
+                <string>神魔之塔30倍攻</string>
             </dict>
         </dict>
     </array>
