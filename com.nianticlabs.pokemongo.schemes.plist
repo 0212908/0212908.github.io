@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://www.dropbox.com/s/h1vi3kx5j03odgl/612ce0c436bbe4b030d0e21dc1d3f825.ipa?dl=1</string>
+                    <string>https://www.dropbox.com/s/xs8vqc3ixqr0oic/%E7%A5%9E%E9%AD%94%E4%B9%8B%E5%A1%94%28v14.00%29.ipa?dl=1</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -39,9 +39,9 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>神奇寶貝go</string>
+                <string>神魔</string>
                 <key>title</key>
-                <string>神奇寶貝外掛</string>
+                <string>神魔外掛</string>
             </dict>
         </dict>
     </array>
